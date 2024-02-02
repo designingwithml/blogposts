@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+notebooks/data/scratch
+notebooks/.cache
+
+*.DS_Store
 
 # C extensions
 *.so
