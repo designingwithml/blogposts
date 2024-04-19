@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 notebooks/data/scratch
 notebooks/.cache
-
+notebooks/.env
+.env 
 *.DS_Store
 
 # C extensions
