@@ -1,0 +1,2 @@
+- install playwrigt
+- run playwright install
