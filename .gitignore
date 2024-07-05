@@ -5,6 +5,7 @@ __pycache__/
 notebooks/data/scratch
 notebooks/.cache
 notebooks/.env
+notebooks/temp
 .env 
 *.DS_Store
 
